@@ -1,0 +1,9 @@
+.app{
+    /* background-image: url(../img/background2.png); */
+    background-repeat: no-repeat;
+    background-size: 100vw;
+}
+
+.app h1 {
+    margin: 0;
+}
